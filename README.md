@@ -4,7 +4,7 @@ Interactive Netflix Movies Data Analysis Dashboard using MS Excel with Investmen
 ---
 
 ## 1. Project Title
-Movies Data Analysis Using MS Excel 
+Netflix Data Analysis Using MS Excel 
 
 ---
 
@@ -38,11 +38,11 @@ The final dashboard presents key metrics and visual insights in a clear and inte
   - Movies_cleaned.xlsx (Data after cleaning and preprocessing)
 
 - **Pivot Tables and Calculations Folder**
-  - Movies_pivot_analysis1.xlsx (Contains pivot tables and calculated metrics)
-  - Movies_pivot_analysis2.xlsx (Contains pivot tables and calculated metrics)
+  - Netflix_Pivot_Analysis_1.xlsx (Contains pivot tables and calculated metrics)
+  - Netflix_Pivot_Analysis_2.xlsx (Contains pivot tables and calculated metrics)
 
 - **Dashboard Folder**
-  - Dashboard_image.jpg (Dashboard screenshot)
+  - Dashboard_Image.png (Dashboard screenshot)
 
 ---
 
@@ -114,7 +114,7 @@ The dashboard provides the following analytical insights:
 
 ## 7. Dashboard Image
 
-![Dashboard](Dashboard/Dashboard_image.jpeg)
+![Dashboard](Dashboard/Dashboard_Image.png)
 
 ---
 
