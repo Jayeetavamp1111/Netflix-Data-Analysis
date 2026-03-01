@@ -80,7 +80,7 @@ The following preprocessing steps were performed on the dataset:
 
 - The `movie_id` column contained values in the format (e.g., movie_001).
 - Extracted the numeric portion of the ID for better structure and consistency.
-- Removed the original `id` column after extraction.
+- Removed the original `movie` column after extraction.
 - Sorted the dataset for better organization and readability.
 - Verified column headers and ensured consistent formatting.
 
